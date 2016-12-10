@@ -1,6 +1,3 @@
-this is a test of using Git.
-
-blah blah blah 
-
+this is the development branch update.
 
 
