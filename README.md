@@ -8,3 +8,6 @@ merged:
 three
 new
 lines
+
+
+changes made
